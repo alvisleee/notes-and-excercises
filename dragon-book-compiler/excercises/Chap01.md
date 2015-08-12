@@ -1,1 +1,7 @@
-* 练习1.1.1: 编译器和解释器之间的区别是什么?
+* Exercise 1.1.1: What is the difference between a compiler and an interpreter?
+
+		A compiler is a program that can read in one language and translate it to another language(target language),
+		A interpreter is a program that can run the source language.
+
+* Exercise 1.1.2 What is the advantages of (a) a compiler over an interpreter (b) an interpreter over a compiler?
+
