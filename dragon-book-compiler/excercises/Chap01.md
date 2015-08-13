@@ -5,3 +5,8 @@
 
 * Exercise 1.1.2 What is the advantages of (a) a compiler over an interpreter (b) an interpreter over a compiler?
 
+		a) The machine-language target program produced by a compiler can run faster than an interpreter
+		b) An interpreter can usually give better error diagnostics than a compiler
+
+* Exercise 1.1.3 What advantages are there to a language-processing system in
+which the compiler produces assembly language rather than machine language?
